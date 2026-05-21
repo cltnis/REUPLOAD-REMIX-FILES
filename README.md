@@ -5,7 +5,7 @@ Remix-main.zip is full source Remix gameserver (will compile and upload here soo
 
 Remix-Redirect.zip is the redirect/auth for Remix (will compile and upload here soon)
 
-Remix-Matchmaker.zip is the matchmaker for Remix (and the client DLL for remix) (will compile and upload here soon)
+Remix-Matchmaker.zip is the matchmaker for Remix (don't know what to do with it so do anything with it ig)
 
 Remix-Launcher.zip is the launcher for Remix (don't know what to do with it so do anything with it ig)
 
