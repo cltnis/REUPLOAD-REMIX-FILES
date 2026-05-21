@@ -41,3 +41,5 @@ cheat buildfree - Toggles infmats
 cheat speed <n> - Sets movement speed multiplier
 cheat startevent - Starts the current event (if any)
 cheat giveitem <WID> <c> - Spawns a pickup of the specified item and makes you pick it up. Count defaults to 1.
+
+dare u to try cheat freebuild :)
