@@ -10,7 +10,7 @@
 9. once you installed and opened it, from the Play menu, click on the tab where Fortnite version is and click on import to import a fortnite version
 10. type the version name (basically 32.11) and then hit the folder icon for the "Game directory"
 11. then find ur 32.11 and make sure you don't go too far and make sure what you see is ONLY this: <img width="812" height="390" alt="Screenshot 2026-05-21 171717" src="https://github.com/user-attachments/assets/f94db53d-8766-4893-a423-e2709a3991f7" />
-12. once you did that, press select
+12. once you did that, press select folder
 13. then press add
 14. now go to Settings then internal files
 15. next, download the dlls i put in releases of this repo
