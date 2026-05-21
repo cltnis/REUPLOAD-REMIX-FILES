@@ -7,10 +7,6 @@ Remix-Redirect.zip is the redirect/auth for Remix (will compile and upload here 
 
 Remix-Matchmaker.zip is the matchmaker for Remix (and the client DLL for remix) (will compile and upload here soon)
 
-Remix-Backend folder has the link for the Remix-Backend.zip which is the backend for Remix (currently don't know what to do with it, you can do anything with it tbh)
-
-btw if your wondering i got the backend from here: https://github.com/Jeremy1926/Remix-Backend
-
 Remix-Launcher.zip is the launcher for Remix (don't know what to do with it so do anything with it ig)
 
 32.11 EXE folder has the link for the 32.11.exe and is for Remix (if you don't use this it won't work on 32.11)
