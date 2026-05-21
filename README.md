@@ -15,15 +15,17 @@
 14. then find ur 32.11 and make sure you don't go too far and make sure what you see is ONLY this: <img width="812" height="390" alt="Screenshot 2026-05-21 171717" src="https://github.com/user-attachments/assets/f94db53d-8766-4893-a423-e2709a3991f7" />
 15. once you did that, press select folder
 16. then press add
-17. now go to Settings then internal files
-18. next, download the dlls i put in releases of this repo
-19. (FOLLOW THESE STEPS CORRECTLY): hit the folder icon on the "Unreal Engine patcher" and put "console.dll" in there by selecting the file, then hit the folder icon on "Authentication patcher" and put "Starfall.dll" in there by selecting the file, and then click on the "Game server" tab and then hit the button on Embedded and change it to Custom and then hit the folder icon on the "Game server" and put whatever gameserver you downloaded (for example like i downloaded Venture.dll), put that dll in there by selecting the file.
-20. when your ready to launch, click "Launch Fortnite" and when prompted, click "Ignore"
-21. once your in the lobby, go to the "Host" tab on reboot launcher and click on "Start hosting"
-22. wait between 5 to 10 minutes (or lower if you want) just to see if the gameserver crashes or not
-23. if the gameserver does crash, make sure you followed all of the steps correctly
-24. if it doesn't crash between 5 to 10 minutes (or lower if you want), your good
-25. now hit the ` key on your keyboard (or F8) (smaller keyboards should be FN + 8) and type "open 127.0.0.1"
+17. now go to Backend then change "Type" to Local instead of Embedded and change the "Port" to 5595
+18. then click on "Start backend" and it should connect to the Neonite Backend
+19. now go to Settings then internal files
+20. next, download the dlls i put in releases of this repo
+21. (FOLLOW THESE STEPS CORRECTLY): hit the folder icon on the "Unreal Engine patcher" and put "console.dll" in there by selecting the file, then hit the folder icon on "Authentication patcher" and put "Starfall.dll" in there by selecting the file, and then click on the "Game server" tab and then hit the button on Embedded and change it to Custom and then hit the folder icon on the "Game server" and put whatever gameserver you downloaded (for example like i downloaded Venture.dll), put that dll in there by selecting the file.
+22. when your ready to launch, click "Launch Fortnite" and when prompted, click "Ignore"
+23. once your in the lobby, go to the "Host" tab on reboot launcher and click on "Start hosting"
+24. wait between 5 to 10 minutes (or lower if you want) just to see if the gameserver crashes or not
+25. if the gameserver does crash, make sure you followed all of the steps correctly
+26. if it doesn't crash between 5 to 10 minutes (or lower if you want), your good
+27. now hit the ` key on your keyboard (or F8) (smaller keyboards should be FN + 8) and type "open 127.0.0.1"
 
 now your ingame!
 (if you get any errors, please don't ask me for help as im not rarely good at helping) <img width="376" height="498" alt="image" src="https://github.com/user-attachments/assets/1ba6db8b-286f-40d0-86e9-b913fc9bb149" />
