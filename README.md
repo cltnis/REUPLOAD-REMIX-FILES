@@ -10,7 +10,7 @@
 9. then download NodeJS (https://nodejs.org/en/download)
 10. once you extract the "Neonite-main.zip" file with 7-Zip, run "Start Neonite.bat" (LEAVE THIS RUNNING)
 11. then download the custom reboot launcher by going to the "Custom Reboot Launcher" folder and then clicking on the "Custom Reboot Launcher LINK" file and then copying the link to go to the dropbox (or if ur lazy: https://www.dropbox.com/scl/fi/8poec1rqh3xcl4476posc/reboot_launcher-10.0.9-windows-setup.exe?rlkey=22w38azkkz51ngeie76854gov&st=uofmlcuo&dl=0) (this custom reboot launcher is mainly for loading the 32.11 build onto reboot launcher)
-12. once you installed and opened it, from the Play menu, click on the tab where Fortnite version is and click on import to import a fortnite version
+12. once you installed and opened it, from the Play menu, click on the "Select a version" tab and click on import to import a fortnite version
 13. type the version name (basically 32.11) and then hit the folder icon for the "Game directory"
 14. then find ur 32.11 and make sure you don't go too far and make sure what you see is ONLY this: <img width="812" height="390" alt="Screenshot 2026-05-21 171717" src="https://github.com/user-attachments/assets/f94db53d-8766-4893-a423-e2709a3991f7" />
 15. once you did that, press select folder
