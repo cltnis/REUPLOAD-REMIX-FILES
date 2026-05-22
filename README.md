@@ -30,7 +30,7 @@ VIDEO TUTORIAL: https://www.youtube.com/watch?v=BEH5gZUyr0I
 27. now hit the ` key on your keyboard (or F8) (smaller keyboards should be FN + 8) and type "open 127.0.0.1"
 
 now your ingame!
-(if you get any errors, please don't ask me for help as im not rarely good at helping) <img width="376" height="498" alt="image" src="https://github.com/user-attachments/assets/1ba6db8b-286f-40d0-86e9-b913fc9bb149" />
+(if you get any errors, please don't ask me for help as im not really good at helping) <img width="376" height="498" alt="image" src="https://github.com/user-attachments/assets/1ba6db8b-286f-40d0-86e9-b913fc9bb149" />
 
 
 
