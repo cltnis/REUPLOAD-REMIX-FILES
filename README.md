@@ -1,4 +1,6 @@
 # 32.11 TUTORIAL!
+VIDEO TUTORIAL: https://www.youtube.com/watch?v=BEH5gZUyr0I
+
 1. Download 32.11 via https://r2.ploosh.dev/32.11.7z (this has UEFN + others and has total of 85 GB, works perfectly with the gameserver)
 2. once you download the 32.11.7z, download 7-Zip (https://7-zip.org/) and extract the 32.11.7z with 7-Zip by right clicking on 32.11.7z, hover over 7-Zip, and then click "Extract Here"
 3. Next download the 32.11.exe file by going to the "32.11 EXE" folder and then clicking on the "32.11 EXE LINK" file and then copying the link to go to the dropbox (or if ur lazy: https://www.dropbox.com/scl/fi/8zeo974vn4q743jqrhcmz/32.11.exe?rlkey=e8hkfsnxbb210i7clbuarjxej&st=lz8fgb4t&dl=0)
