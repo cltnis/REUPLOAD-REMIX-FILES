@@ -24,7 +24,7 @@ VIDEO TUTORIAL: https://www.youtube.com/watch?v=BEH5gZUyr0I
 21. (FOLLOW THESE STEPS CORRECTLY): hit the folder icon on the "Unreal Engine patcher" and put "console.dll" in there by selecting the file, then hit the folder icon on "Authentication patcher" and put "Starfall.dll" in there by selecting the file, and then click on the "Game server" tab and then hit the button on Embedded and change it to Custom and then hit the folder icon on the "Game server" and put whatever gameserver you downloaded (for example like i downloaded Venture.dll), put that dll in there by selecting the file.
 22. when your ready to launch, click "Launch Fortnite" and when prompted, click "Ignore"
 23. once your in the lobby, go to the "Host" tab on reboot launcher and click on "Start hosting"
-24. wait between 5 to 10 minutes (or lower if you want) just to see if the gameserver crashes or not
+24. wait just a little bit to see if the gameserver crashes or not
 25. if the gameserver does crash, make sure you followed all of the steps correctly
 26. if it doesn't crash between 5 to 10 minutes (or lower if you want) (OR if it says joinable) your good
 27. now hit the ` key on your keyboard (or F8) (smaller keyboards should be FN + 8) and type "open 127.0.0.1"
