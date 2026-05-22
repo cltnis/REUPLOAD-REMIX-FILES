@@ -26,7 +26,7 @@ VIDEO TUTORIAL: https://www.youtube.com/watch?v=BEH5gZUyr0I
 23. once your in the lobby, go to the "Host" tab on reboot launcher and click on "Start hosting"
 24. wait between 5 to 10 minutes (or lower if you want) just to see if the gameserver crashes or not
 25. if the gameserver does crash, make sure you followed all of the steps correctly
-26. if it doesn't crash between 5 to 10 minutes (or lower if you want), your good
+26. if it doesn't crash between 5 to 10 minutes (or lower if you want) (OR if it says joinable) your good
 27. now hit the ` key on your keyboard (or F8) (smaller keyboards should be FN + 8) and type "open 127.0.0.1"
 
 now your ingame!
