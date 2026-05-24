@@ -3,7 +3,7 @@ VIDEO TUTORIAL: SOON
 1. (BIG REMINDER!!!) Make sure you followed the 32.11 tutorial FIRST that i made on Thursday (https://www.youtube.com/watch?v=BEH5gZUyr0I)
 2. make sure you have neonite and make sure its running
 3. then go to releases and find the release called "Event"
-4. then download the 3 dlls
+4. then download the 3 dlls: "console.dll", "Starfall.dll", and "Event.dll"
 5. (FOLLOW THESE STEPS CORRECTLY): when your on the custom reboot launcher, go to settings then internal files and hit the folder icon on the "Unreal Engine patcher" and put "console.dll" in there by selecting the file, then hit the folder icon on "Authentication patcher" and put "Starfall.dll" in there by selecting the file, and then click on the "Game server" tab and then hit the button on Embedded and change it to Custom and then hit the folder icon on the "Game server" and put the Event.dll there by selecting the file.
 6. then go to the play tab and click on the "Launch Fortnite" button
 7. when prompted, click "Ignore"
