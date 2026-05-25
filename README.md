@@ -15,7 +15,7 @@ VIDEO TUTORIAL: SOON
 13. then MAKE SURE your friend has it set on Private Network and NOT on Gaming Network, then your friend will type the Network name and password the hoster sent you
 14. Then your friend will click Join
 15. now hoster will next download the Neonite Backend (or you can download the Custom Neonite Backend which has some gamemode changes and the reload lootpool hotfixes and unvaulted items)
-16. if the hoster already have it installed, skip 12 and double click on "Start Neonite.bat" (MAKE SURE TO LEAVE IT RUNNING!!!)
+16. if the hoster already has the Neonite Backend installed, skip 12 and double click on "Start Neonite.bat" (MAKE SURE TO LEAVE IT RUNNING!!!)
 17. your friend will go on the Custom Reboot Launcher and click on Backend
 18. your friend will and must change the type of Backend to Remote
 19. then your friend will copy the hoster's fake IP Address on Radmin VPN (by right clicking on the hoster's name and clicking on "Copy IP Address")
