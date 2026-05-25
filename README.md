@@ -1,5 +1,5 @@
 # 32.11 EVENT TUTORIAL!
-VIDEO TUTORIAL: SOON
+VIDEO TUTORIAL: https://www.youtube.com/watch?v=QCoBmM7bq30
 1. (BIG REMINDER!!!) Make sure you followed the 32.11 tutorial FIRST that i made on Thursday (https://www.youtube.com/watch?v=BEH5gZUyr0I)
 2. make sure you have neonite and make sure its running
 3. then go to releases and find the release called "Event"
