@@ -36,7 +36,8 @@ VIDEO TUTORIAL: SOON
 
 hope yall have fun :D 
 
-<img width="282" height="498" alt="image" src="https://github.com/user-attachments/assets/5fc48081-4357-4fd7-bcdd-0383fa4ba18a" />
+<img width="220" height="269" alt="image" src="https://github.com/user-attachments/assets/c49244e6-90ef-4281-980c-64c6a8a49ef1" />
+
 
 
 
