@@ -7,7 +7,7 @@ VIDEO TUTORIAL: SOON
 5. Now the hoster will click on Create Network
 6. Once the hoster clicked on Create Network, the hoster should see this
 7. <img width="253" height="117" alt="image" src="https://github.com/user-attachments/assets/bff4ac1f-c7ec-4503-b6bc-783a2d9d7fd8" />
-8. Now the hoster put in your Network name (basically any name u want) and the password (you will have to retype it btw) (these 2 are for when your friend is joining you)
+8. Now the hoster will put in the Network name (basically any name u want) and the password (you will have to retype it btw) (these 2 are for when your friend is joining you)
 9. Now the hoster click on Create
 10. now hoster, send the info (Network name and password) to your friend
 11. when your friend goes on Radmin VPN, your friend should click on Join Network (on the bottom of this image)
