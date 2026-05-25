@@ -23,16 +23,17 @@ VIDEO TUTORIAL: SOON
 21. For Port, your friend will make sure its on 5595 and NOT 3551
 22. then your friend will click on Start Backend and they should be connected to the hoster's backend
 23. now the hoster will go on releases on the github repo and choose any gamemode they want to do (btw Event gamemode does work on Multiplayer)
-24. the hoster will give ONLY the console.dll and Starfall.dll to your friend
-25. now your friend will go to settings then internal files and then hit the folder icon on the "Unreal Engine patcher" and put "console.dll" in there by selecting the file, then hit the folder icon on "Authentication patcher" and put "Starfall.dll" in there by selecting the file.
-26. now the hoster will make sure they are connected to the Neonite Backend by going to the backend tab on Custom Reboot Launcher and make sure the type is on Local and the Port is 5595 and NOT 3551
-27. now hoster and friend, go to the Play tab on Custom Reboot Launcher and click on "Launch Fortnite"
-28. now the hoster will click on ignore when prompted and your friend will also click on ignore when prompted
-29. once the hoster and your friend is ingame, the hoster will go back on Custom Reboot Launcher and go to the Host tab and click on "Start hosting"
-30. once the gameserver is loaded successfully, the hoster will hit the ` key on your keyboard (or F8) (or for smaller keyboard: FN + 8) and then type "open 127.0.0.1" (without the "")
-31. now once the hoster is ingame, your friend will go on Radmin VPN and MAKE SURE they copied the hoster's fake IP Address
-32. your friend will then hit the ` key on their keyboard (or F8) (or for smaller keyboard: FN + 8) and type "open hostersip" (without the "") (basically hostersip is the fake IP Address you copied from the hoster)
-33. now the hoster and your friend should be ingame!
+24. then the hoster will go to settings then internal files then hit the folder icon on the "Unreal Engine patcher" and put "console.dll" in there by selecting the file, then hit the folder icon on "Authentication patcher" and put "Starfall.dll" in there by selecting the file, and then click on the "Game server" tab and then hit the button on Embedded and change it to Custom and then hit the folder icon on the "Game server" and put whatever gameserver you downloaded (for example like i downloaded Venture.dll), put that dll in there by selecting the file.
+25. the hoster will then give ONLY the console.dll and Starfall.dll to your friend
+26. now your friend will go to settings then internal files and then hit the folder icon on the "Unreal Engine patcher" and put "console.dll" in there by selecting the file, then hit the folder icon on "Authentication patcher" and put "Starfall.dll" in there by selecting the file.
+27. now the hoster will make sure they are connected to the Neonite Backend by going to the backend tab on Custom Reboot Launcher and make sure the type is on Local and the Port is 5595 and NOT 3551
+28. now hoster and friend, go to the Play tab on Custom Reboot Launcher and click on "Launch Fortnite"
+29. now the hoster will click on ignore when prompted and your friend will also click on ignore when prompted
+30. once the hoster and your friend is ingame, the hoster will go back on Custom Reboot Launcher and go to the Host tab and click on "Start hosting"
+31. once the gameserver is loaded successfully, the hoster will hit the ` key on your keyboard (or F8) (or for smaller keyboard: FN + 8) and then type "open 127.0.0.1" (without the "")
+32. now once the hoster is ingame, your friend will go on Radmin VPN and MAKE SURE they copied the hoster's fake IP Address
+33. your friend will then hit the ` key on their keyboard (or F8) (or for smaller keyboard: FN + 8) and type "open hostersip" (without the "") (basically hostersip is the fake IP Address you copied from the hoster)
+34. now the hoster and your friend should be ingame!
 
 hope yall have fun :D 
 
