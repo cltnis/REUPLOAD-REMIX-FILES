@@ -2,7 +2,7 @@
 VIDEO TUTORIAL: SOON
 1. (BIG REMINDER!!!) Make sure you and your friend followed the 32.11 tutorial FIRST that i made last Thursday (https://www.youtube.com/watch?v=BEH5gZUyr0I)
 2. the Hoster and your friend must download Radmin VPN from [here](https://www.radmin-vpn.com/)
-3. Once the hoster and your friend downloaded and installed Radmin VPN, the hoster and your friend should see this screen (the My PC and fake IP Address on the bottom will look different for you and your friend)
+3. Once the hoster and your friend downloaded and installed Radmin VPN, the hoster and your friend should see this screen (the My PC and fake IP Address on the bottom will look different for the hoster and your friend)
 4. <img width="308" height="434" alt="image" src="https://github.com/user-attachments/assets/afec3588-0c0e-402c-829f-b71deb10c971" />
 5. Now the hoster will click on Create Network
 6. Once the hoster clicked on Create Network, the hoster should see this
