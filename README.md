@@ -1,5 +1,5 @@
 # 32.11 MULTIPLAYER TUTORIAL!
-VIDEO TUTORIAL: SOON
+VIDEO TUTORIAL: https://www.youtube.com/watch?v=nMwEj1E5R9o
 1. (BIG REMINDER!!!) Make sure you and your friend followed the 32.11 tutorial FIRST that i made last Thursday (https://www.youtube.com/watch?v=BEH5gZUyr0I)
 2. the Hoster and your friend must download Radmin VPN from [here](https://www.radmin-vpn.com/)
 3. Once the hoster and your friend downloaded and installed Radmin VPN, the hoster and your friend should see this screen (the My PC and fake IP Address on the bottom will look different for the hoster and your friend)
